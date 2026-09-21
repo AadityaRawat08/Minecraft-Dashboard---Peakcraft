@@ -202,22 +202,27 @@ git push
 
 ## 📸 Screenshots
 
-Add dashboard screenshots here when available.
+## 📸 Screenshots
 
-Example:
+### Welcome
 
-``` markdown
-Welcome
-/screenshots/Screenshot (189).png
-Dashboard
-/screenshots/Screenshot (190).png
-Other ScreenShots what are available Right now:
-/screenshots/Screenshot (191).png
-/screenshots/Screenshot (192).png
-/screenshots/Screenshot (193).png
-/screenshots/Screenshot (194).png
-/screenshots/Screenshot (195).png
-```
+![Welcome](./screenshots/Screenshot%20%28189%29.png)
+
+### Dashboard
+
+![Dashboard](./screenshots/Screenshot%20%28190%29.png)
+
+### Other Screenshots
+
+![Screenshot 191](./screenshots/Screenshot%20%28191%29.png)
+
+![Screenshot 192](./screenshots/Screenshot%20%28192%29.png)
+
+![Screenshot 193](./screenshots/Screenshot%20%28193%29.png)
+
+![Screenshot 194](./screenshots/Screenshot%20%28194%29.png)
+
+![Screenshot 195](./screenshots/Screenshot%20%28195%29.png)
 
 ## 🗺️ Future Improvements
 
