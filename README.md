@@ -208,15 +208,15 @@ Example:
 
 ``` markdown
 Welcome
-C:\Users\aadit\Desktop\All Codes\Template\minecraft-server-management-dashboard\screenshots\Screenshot (189).png
+/screenshots/Screenshot (189).png
 Dashboard
-C:\Users\aadit\Desktop\All Codes\Template\minecraft-server-management-dashboard\screenshots\Screenshot (190).png
+/screenshots/Screenshot (190).png
 Other ScreenShots what are available Right now:
-C:\Users\aadit\Desktop\All Codes\Template\minecraft-server-management-dashboard\screenshots\Screenshot (191).png
-C:\Users\aadit\Desktop\All Codes\Template\minecraft-server-management-dashboard\screenshots\Screenshot (192).png
-C:\Users\aadit\Desktop\All Codes\Template\minecraft-server-management-dashboard\screenshots\Screenshot (193).png
-C:\Users\aadit\Desktop\All Codes\Template\minecraft-server-management-dashboard\screenshots\Screenshot (194).png
-C:\Users\aadit\Desktop\All Codes\Template\minecraft-server-management-dashboard\screenshots\Screenshot (195).png
+/screenshots/Screenshot (191).png
+/screenshots/Screenshot (192).png
+/screenshots/Screenshot (193).png
+/screenshots/Screenshot (194).png
+/screenshots/Screenshot (195).png
 ```
 
 ## 🗺️ Future Improvements
